@@ -4,7 +4,8 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
-   
+    margin-left: calc((100vw - 960px) / 2);
+    margin-top: calc((100vh - 500px) / 2);
 }
 header, nav, section, aside, footer {
     background:#ebebeb }
